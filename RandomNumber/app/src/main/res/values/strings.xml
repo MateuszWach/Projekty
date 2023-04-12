@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomNumber</string>
+    <string name="tv_imie_gracza">Podaj swoje imię</string>
+    <string name="et_imie">Imię</string>
+    <string name="btn_zatwierdz">Zatwierdź</string>
+    <string name="tv_zgadnij">Zgadnij liczbę \n z przedziału 0-100</string>
+    <string name="et_liczba">Wpisz liczbę</string>
+</resources>
