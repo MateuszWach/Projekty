@@ -15,7 +15,7 @@ public class Menu implements ActionListener {
     JPanel panel2 = new JPanel();
     JButton fun1Button = new JButton("TextEditor");
     JButton fun2Button = new JButton("Stopwatch");
-    JButton fun3Button = new JButton("Funkcja 3");
+    JButton fun3Button = new JButton("Calculator");
 
     Menu(){
         // Panel strony 1
@@ -67,6 +67,9 @@ public class Menu implements ActionListener {
         }
         if (e.getSource()==fun2Button) {
             Stopwatch stopwatch = new Stopwatch();
+        }
+        if (e.getSource()==fun3Button) {
+            Calculator clock = new Calculator();
         }
     }
     public void setPanel2(){
