@@ -2,3 +2,4 @@
 2.Plik Aplikacja1 to aplikacja Java na komputer. Jest prosty system logowania (login = login, password = password) oraz 2 funkcje:
 Text Editor - prosty notatnik
 Stopwatch - prosty stoper
+Calculator - prosty kalkulator
