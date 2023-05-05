@@ -3,3 +3,4 @@
 Text Editor - prosty notatnik
 Stopwatch - prosty stoper
 Calculator - prosty kalkulator
+3. Jak sama nazwa wskazuje Kamień Papier Nożyce to gra w papier kamień nożyce.
